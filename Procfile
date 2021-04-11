@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run streamlit-mumbai.py
+web: sh setup.sh && streamlit run breast-cancer.py
